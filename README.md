@@ -1,2 +1,2 @@
-# fintech-ai
-Fintech-AI app
+# alvan-ai
+Alvan AI app
